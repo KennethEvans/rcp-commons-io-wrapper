@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Commons IO
-Bundle-SymbolicName: net.kenevans.commons-io
+Bundle-SymbolicName: net.kenevans.rcp.commons-io
 Bundle-Version: 2.0.1
 Bundle-ClassPath: commons-io-2.0.1.jar
 Export-Package: org.apache.commons.io,
